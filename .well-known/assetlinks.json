@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.movienightmahjong.game",
+      "sha256_cert_fingerprints": [
+        "73:BC:0D:30:F8:9A:F6:95:1C:0C:88:8B:0A:C6:B2:C3:02:EE:25:F6:7F:75:9C:17:C4:CC:43:8C:35:79:99:4E"
+      ]
+    }
+  }
+]
